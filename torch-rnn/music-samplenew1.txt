@@ -1,0 +1,11 @@
+X: 44
+T:Jomas's Fancz
+% Nottingham Music Database
+S:Chris Dewhurst 1986 , via Phil Rowe
+M:6/8
+L:1/4
+K:D
+"D"ADF "G7"GAB|"G"dBc def|"C"gec cBc|"D7"cBG FGA|"G7"G2B c2d|"C"ede "Gm"dBG|
+"E7"G2A B2e|"Em"dBd "D7/f+"edA|"G"BAG "Gm"cdd|\
+"C"efe "G"dBd|"A7"e=cA "D"AAF|\
+"G"G2d "C"efg| [1"D7"dBA D2:|

@@ -1,0 +1,13 @@
+X:49
+T:Baster's Ofor
+% Nottingham Music Database
+S:Vine Rorer
+M:3/4
+L:1/4
+K:G
+d/2c/4|"Bm"BB "D"A/2B/2A/2F/2|"Em"G/2F/2G/2E/2 "D"Ad/2e/2|"Em"d/2c/2B/2G/2 "A7"E/2F/2E/2E/2|
+"D"FD DA/2F/2|"G"G/2B/2B/2d/2 Bd|"A"ee A3/2e/2|\
+"A7"a/2g/2a/2f/2 "A7"ed/2c/2|\
+"D"dF "D7"A/2G/2F/2A/2|\
+"F"F/2G/2A/2=G/2 F/2A,/2G|
+"Am"B/2d/2e/2f/2 "C"gg/2e/2|"G"dB G:|
